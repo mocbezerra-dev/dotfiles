@@ -42,8 +42,6 @@ filetype indent on
 nnoremap <c-q> <c-v>
 nnoremap <C-n> :NERDTreeToggle<CR>
 
-let g:tokyonight_style = "nigth"
-
 "let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
 
